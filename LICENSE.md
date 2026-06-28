@@ -1,4 +1,4 @@
-# 
+# Advanced JetBrains IntelliJ IDEA tools for Mac OS | New JetBrains IntelliJ IDEA tools for PC Windows. Featuring data-import-export and plugin-marketplace — optimized for maximum performance on every platform.
 
 
 
